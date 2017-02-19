@@ -1,0 +1,27 @@
+Ceremony
+	time
+	place
+	father dennis
+	mom's church
+	
+Reception
+	time
+	place
+	historical
+	HAVE FUN sandals
+
+Accommodations
+	hotel
+	group link
+	lake
+	mall/rest/whole foods
+
+
+Registry
+	Amazon
+	Honeyfund
+
+Story
+	family
+	sean and katie
+	thank yous

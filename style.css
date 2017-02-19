@@ -1,0 +1,187 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 62.5%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+.wrap {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+#header {
+	background-color: #fec0cb;
+	text-align: center;
+	padding: 50px 0;
+}
+
+h1 {
+	font-size: 4.8em;
+	font-weight: 900;
+	line-height: 1.2em;
+	
+}
+
+h2 {
+	font-size: 3.8em;
+	font-weight: 900;
+	color: white;
+}
+
+
+h3 {
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight: 900;	
+}
+
+
+#content {
+	margin: 100px 0 0 0;
+	
+	
+}
+
+p {
+	margin: 25px 0 25px 0;
+}
+
+.information p {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	height: 250px;
+	
+}
+
+a {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+.information {
+	float: left;
+	width: 300px;
+	margin: 0 20px 0 0;
+
+}
+
+.information:last-child {
+	margin: 0 0 0 0;
+}
+
+.map {
+	
+}
+
+.map p {
+	text-align: center;
+	font-size: .8em;
+	text-transform: uppercase;
+	margin: 5px 0 100px;
+	font-weight: 900;
+	color: black;
+	height: auto;
+}
+
+.clear {
+	clear: both;
+}
+
+#registry {
+	background-color: #e5e6eb;
+
+	padding: 50px 0 80px;
+	text-align: center;
+}
+
+#registry h3 {
+	margin: 25px 0 75px;
+	
+}
+
+#registry a {
+	display: inline-block;
+	margin: 0 30px 0;
+	border: 1px solid #787878;
+}
+
+#registry p {
+	padding: 50px 0 0 0;
+}
+
+
+#story {
+	background-color: #5a84b6;
+	margin: 50px 0 0;
+	padding: 50px 0 100px;
+}
+
+#story h3 {
+	text-align: center;
+}
+
+#story p {
+	font-size: 1.2em;
+	line-height: 1.5em;
+}
+
+#story h3 {
+	margin: 25px 0 75px;
+	
+}
+
+#story img {
+	float: left;
+	margin: 10px 20px 10px 0;
+	border: 1px solid #fff;
+}
+
