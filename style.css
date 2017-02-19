@@ -185,3 +185,8 @@ a:visited {
 	border: 1px solid #fff;
 }
 
+.contact a {
+	text-decoration: underline;
+	border: 0;
+}
+
