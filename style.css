@@ -188,5 +188,6 @@ a:visited {
 .contact a {
 	text-decoration: underline;
 	border: 0;
+	outline: 0;
 }
 
