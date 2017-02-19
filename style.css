@@ -52,7 +52,7 @@ table {
 .wrap {
 	width: 1000px;
 	margin: 0 auto;
-	padding: 0 20px;
+	
 }
 
 
@@ -84,9 +84,7 @@ h3 {
 
 
 #content {
-	margin: 100px 0 0 0;
-	
-	
+	margin: 100px 0 0 0;	
 }
 
 p {
