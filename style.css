@@ -51,7 +51,8 @@ table {
 
 .wrap {
 	width: 1000px;
-	margin: 15px auto;
+	margin: 0 auto;
+	padding: 0 20px;
 }
 
 
